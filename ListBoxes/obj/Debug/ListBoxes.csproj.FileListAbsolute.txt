@@ -1,0 +1,10 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\bin\Debug\ListBoxes.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\bin\Debug\ListBoxes.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\bin\Debug\ListBoxes.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.frmTeams.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.Properties.Resources.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.csproj.GenerateResource.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ListBoxes\obj\Debug\ListBoxes.pdb

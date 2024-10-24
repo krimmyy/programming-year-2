@@ -1,0 +1,10 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\bin\Debug\HelloYou.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\bin\Debug\HelloYou.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\bin\Debug\HelloYou.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.frmHelloYou.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.Properties.Resources.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.csproj.GenerateResource.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\HelloYou\obj\Debug\HelloYou.pdb
