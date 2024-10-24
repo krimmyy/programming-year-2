@@ -1,0 +1,10 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\bin\Debug\ColourBox.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\bin\Debug\ColourBox.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\bin\Debug\ColourBox.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.frmColourBox.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.Properties.Resources.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.csproj.GenerateResource.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\ColourBox\obj\Debug\ColourBox.pdb

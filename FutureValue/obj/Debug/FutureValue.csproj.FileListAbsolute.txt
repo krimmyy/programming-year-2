@@ -1,0 +1,10 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\FutureValue\obj\Debug\FutureValue.pdb
