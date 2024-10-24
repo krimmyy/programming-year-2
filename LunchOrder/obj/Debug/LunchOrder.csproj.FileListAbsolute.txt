@@ -1,0 +1,10 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.frmLunchOrder.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\LunchOrder\obj\Debug\LunchOrder.pdb

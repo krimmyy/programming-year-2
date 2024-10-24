@@ -1,0 +1,7 @@
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\bin\Debug\Revision.exe.config
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\bin\Debug\Revision.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\bin\Debug\Revision.pdb
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\obj\Debug\Revision.csproj.AssemblyReference.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\obj\Debug\Revision.exe
+C:\Users\60003876\OneDrive - Northern Regional College\Year 2023-24\Programming\Revision\obj\Debug\Revision.pdb
